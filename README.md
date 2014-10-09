@@ -3,4 +3,4 @@ hello-world
 
 Test repo
 
-Just finished updating teh teadme file
+Just finished updating the readme file
